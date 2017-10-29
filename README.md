@@ -1,9 +1,8 @@
-# tinkeringWithTwitter
-## Tinkering with the Twitter API
+# Tinkering With Twitter
 
 ## Summary
 Using the Twitter4J Java Library, this project:
-* Post messages to your Twitter feed.
+* Posts messages to your Twitter feed.
 * Searches Twitter for keywords.
 * Determines the health of the Twitter API.
 
