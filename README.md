@@ -27,4 +27,5 @@ To use the Twitter API you need to:
 ## Tinkering With Twitter: Blog Series
 Check out the [Adventures in Automation](http://tjmaher.com/) blog series [Tinkering with Twitter](http://www.tjmaher.com/2017/10/tinkering-with-twitter-1.html) or [other code walkthroughs](http://www.tjmaher.com/p/programming-projects.html) that T.J. Maher has completed.
 * **Part One**: [Twitter and the Twitter Search API](http://www.tjmaher.com/2017/10/tinkering-with-twitter-1.html)
+* **Part Two**: [Getting credentials, consumerKey, accessToken](http://www.tjmaher.com/2017/10/tinkering-with-twitter-2_29.html)
 
