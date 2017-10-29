@@ -19,6 +19,7 @@ To use the Twitter API you need to:
 
 **src/test/java/utils**
 * [PrintUtils](https://github.com/tjmaher/tinkeringWithTwitter/blob/master/src/test/java/utils/PrintUtils.java)
+
 [twitter4j.properties](https://github.com/tjmaher/tinkeringWithTwitter/blob/master/twitter4j.properties)
 
 
