@@ -14,7 +14,7 @@ To use the Twitter API you need to:
 ## Contents
 **src/test/java**
 * [TweetPropertiesTest](https://github.com/tjmaher/tinkeringWithTwitter/blob/master/src/test/java/TweetPropertiesTest.java)
-* [TwitterApiHealth](https://github.com/tjmaher/tinkeringWithTwitter/blob/master/src/test/java/TwitterApiHealthTest.java)
+* [TwitterApiHealthTest](https://github.com/tjmaher/tinkeringWithTwitter/blob/master/src/test/java/TwitterApiHealthTest.java)
 * [TwitterPostsAndSearchTest](https://github.com/tjmaher/tinkeringWithTwitter/blob/master/src/test/java/TwitterPostsAndSearchTest.java)
 
 **src/test/java/utils**
